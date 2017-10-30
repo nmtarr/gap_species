@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GAP_code,common_name,scientific_name,publication_date,citation,reviewer,abstract,editors
 aACSSx,Atlantic Coast Slimy Salamander,Plethodon chlorobryonis,2017,"U.S. Geological Survey - Gap Analysis Program, 2017, Atlantic Coast Slimy Salamander (Plethodon chlorobryonis) Range Map, U.S. Geological Survey data release, https://doi.org/10.5066/F7Q81B3R.",Jeff Lonneker,This dataset represents a range map for Atlantic Coast Slimy Salamander.  These habitat maps are created by ......,[]
 aADSAx,Apalachicola Dusky Salamander,Desmognathus apalachicolae,2017,"U.S. Geological Survey - Gap Analysis Program, 2017, Apalachicola Dusky Salamander (Desmognathus apalachicolae) Range Map, U.S. Geological Survey data release, https://doi.org/10.5066/F7Q81B3R.",Jeff Lonneker,This dataset represents a range map for Apalachicola Dusky Salamander.  These habitat maps are created by ......,[]
@@ -1718,3 +1719,1725 @@ mWTDEn,Blackbeard Island Deer,Odocoileus virginianus nigribarbis,2017,"U.S. Geol
 mWTDEx,White-tailed Deer,Odocoileus virginianus,2017,"U.S. Geological Survey - Gap Analysis Program, 2017, White-tailed Deer (Odocoileus virginianus) Range Map, U.S. Geological Survey data release, https://doi.org/10.5066/F7Q81B3R.",Jeff Lonneker,This dataset represents a range map for White-tailed Deer.  These habitat maps are created by ......,['Thomas Laxson']
 mWTJAx,White-tailed Jackrabbit,Lepus townsendii,2017,"U.S. Geological Survey - Gap Analysis Program, 2017, White-tailed Jackrabbit (Lepus townsendii) Range Map, U.S. Geological Survey data release, https://doi.org/10.5066/F7Q81B3R.",Jeff Lonneker,This dataset represents a range map for White-tailed Jackrabbit.  These habitat maps are created by ......,['Thomas Laxson']
 rSMKIx,Sonoran Mountain Kingsnake,Lampropeltis pyromelana,2017,"U.S. Geological Survey - Gap Analysis Program, 2017, Sonoran Mountain Kingsnake (Lampropeltis pyromelana) Range Map, U.S. Geological Survey data release, https://doi.org/10.5066/F7Q81B3R.",Steve Williams,This dataset represents a range map for Sonoran Mountain Kingsnake.  These habitat maps are created by ......,['Thomas Laxson']
+=======
+GAP_code,reviewer,editors
+aABSAx,Jeff Lonneker,['Ken Boykin']
+aACSSx,Jeff Lonneker,
+aADSAx,Jeff Lonneker,
+aAGTOx,Jeff Lonneker,['Ken Boykin']
+aAMBUx,Jeff Lonneker,['Ken Boykin']
+aAMDSx,Steve Williams,['Matthew Rubino']
+aAMTOx,Jeff Lonneker,['Ken Boykin']
+aARSAx,,['Ken Boykin']
+aARTOx,Jeff Lonneker,['Ken Boykin']
+aAZTOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+aAZTRx,,['Ken Boykin']
+aBAFRx,Steve Williams,['Ken Boykin']
+aBATRx,Jeff Lonneker,['Ken Boykin']
+aBBSSx,,['Ken Boykin']
+aBCSAx,,['Matthew Rubino']
+aBCTRx,,['Ken Boykin']
+aBESAx,Steve Williams,['Matthew Rubino']
+aBGCSx,Jeff Lonneker,
+aBGSAx,,['Steven Williams']
+aBLASx,Jeff Lonneker,['Ken Boykin']
+aBLSAx,,['Ken Boykin']
+aBLTOx,,['Ken Boykin']
+aBMSAx,Jeff Lonneker,
+aBOFRx,Jeff Lonneker,['Ken Boykin']
+aBOTOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+aBRDSx,Jeff Lonneker,
+aBRFRx,Jeff Lonneker,
+aBRTSx,Jeff Lonneker,
+aBSNEx,,['Matthew Rubino']
+aBSPSx,,['Ken Boykin']
+aBTISx,,['Matthew Rubino']
+aBUPSx,,['Matthew Rubino']
+aBUTOx,,['Ken Boykin']
+aBVTRx,Jeff Lonneker,['Ken Boykin']
+aBWRWx,Jeff Lonneker,
+aCANEx,Jeff Lonneker,['Ken Boykin']
+aCASAx,,['Ken Boykin']
+aCATOx,,['Ken Boykin']
+aCATRx,,['Ken Boykin']
+aCBSAx,,['Ken Boykin']
+aCCFRx,,['Ken Boykin']
+aCCSAx,,['Ken Boykin']
+aCFNEx,,['Ken Boykin']
+aCGSAx,Steve Williams,['Ken Boykin']
+aCGTRx,Jeff Lonneker,['Ken Boykin']
+aCHDSx,Jeff Lonneker,
+aCHSAx,Jeff Lonneker,
+aCISSx,,['Ken Boykin']
+aCKSAx,Steve Williams,['Matthew Rubino']
+aCLFRx,Jeff Lonneker,
+aCLSAx,Nathan Tarr,"['Thomas Laxson', 'Matthew Rubino']"
+aCMDSx,Jeff Lonneker,
+aCMSAx,,['Matthew Rubino']
+aCMTSx,,['Matthew Rubino']
+aCOFRx,Jeff Lonneker,['Ken Boykin']
+aCOGSx,Steve Williams,['Ken Boykin']
+aCOSAx,Jeff Lonneker,['Ken Boykin']
+aCOSPx,Jeff Lonneker,['Ken Boykin']
+aCPSAx,Steve Williams,['Matthew Rubino']
+aCRFRx,Jeff Lonneker,
+aCRLFx,Jeff Lonneker,['Matthew Rubino']
+aCSFRx,Jeff Lonneker,['Ken Boykin']
+aCSLSx,Jeff Lonneker,['Ken Boykin']
+aCSMSx,Jeff Lonneker,
+aCTFRx,Jeff Lonneker,['Ken Boykin']
+aCTGSx,,['Ken Boykin']
+aCTOSx,Jeff Lonneker,['Ken Boykin']
+aCTRSx,Jeff Lonneker,['Ken Boykin']
+aCUDSx,,['Matthew Rubino']
+aCUTRx,Jeff Lonneker,
+aCVSAx,Steve Williams,['Matthew Rubino']
+aCWFRx,Jeff Lonneker,['Ken Boykin']
+aCYTRx,Jeff Lonneker,['Ken Boykin']
+aDASAx,,['Matthew Rubino']
+aDBBSx,Steve Williams,['Matthew Rubino']
+aDGFRx,Jeff Lonneker,['Ken Boykin']
+aDNSAx,Jeff Lonneker,['Ken Boykin']
+aDUSAx,Jeff Lonneker,['Ken Boykin']
+aDWSAx,Steve Williams,['Matthew Rubino']
+aDWWAx,Jeff Lonneker,
+aEANEx,Steve Williams,['Matthew Rubino']
+aEASPx,Jeff Lonneker,['Ken Boykin']
+aENMTx,Steve Williams,['Ken Boykin']
+aENSAx,Steve Williams,['Ken Boykin']
+aERBSx,Steve Williams,['Matthew Rubino']
+aETSAx,Jeff Lonneker,"['Thomas Laxson', 'Matthew Rubino']"
+aFBFRx,Jeff Lonneker,
+aFBSAx,,['Ken Boykin']
+aFFSAx,Steve Williams,['Matthew Rubino']
+aFMSAx,,['Matthew Rubino']
+aFOTOx,Jeff Lonneker,['Ken Boykin']
+aFTSAx,Matt Rubino,
+aFYLFx,Jeff Lonneker,['Ken Boykin']
+aGBSAx,Jeff Lonneker,
+aGBSPx,Jeff Lonneker,['Ken Boykin']
+aGCTOx,Jeff Lonneker,['Ken Boykin']
+aGESAx,,['Ken Boykin']
+aGGSAx,,['Ken Boykin']
+aGHFRx,Jeff Lonneker,
+aGMSSx,,['Ken Boykin']
+aGOFRx,Jeff Lonneker,
+aGPTOx,Jeff Lonneker,['Ken Boykin']
+aGRFRx,Jeff Lonneker,['Ken Boykin']
+aGRSAx,Steve Williams,['Matthew Rubino']
+aGRSIx,Steve Williams,['Matthew Rubino']
+aGRTOx,Jeff Lonneker,['Ken Boykin']
+aGRTRx,Jeff Lonneker,['Ken Boykin']
+aGSALx,,['Matthew Rubino']
+aGSSAx,,['Ken Boykin']
+aGUWAx,Steve Williams,['Matthew Rubino']
+aGYTRx,Jeff Lonneker,['Ken Boykin']
+aHELLa,Matt Rubino,['Nathan Tarr']
+aHELLb,,['Nathan Tarr']
+aHELLx,Matt Rubino,['Nathan Tarr']
+aHHSSx,,['Ken Boykin']
+aHOTOx,,['Thomas Laxson']
+aHUSPx,,['Ken Boykin']
+aIGSAx,Steve Williams,['Ken Boykin']
+aILGRx,,['Ken Boykin']
+aIMSAx,Jeff Lonneker,
+aINSAx,,['Ken Boykin']
+aJESAx,Steve Williams,['Matthew Rubino']
+aJMSAx,Jeff Lonneker,['Ken Boykin']
+aJPSAx,,['Ken Boykin']
+aJUSAx,Jeff Lonneker,
+aKCSSx,,['Ken Boykin']
+aKPSAx,,['Ken Boykin']
+aKRSSx,,['Ken Boykin']
+aKSSAx,,['Matthew Rubino']
+aLASAx,,['Matthew Rubino']
+aLBTRx,Jeff Lonneker,['Ken Boykin']
+aLESIx,Nathan Tarr,['Matthew Rubino']
+aLGFRx,Jeff Lonneker,
+aLISAx,,['Ken Boykin']
+aLLFRx,Jeff Lonneker,['Ken Boykin']
+aLMSAx,Jeff Lonneker,['Ken Boykin']
+aLSSAx,,['Ken Boykin']
+aLTASx,Nathan Tarr,['Matthew Rubino']
+aLTOPx,Jeff Lonneker,['Ken Boykin']
+aMASAx,Steve Williams,['Matthew Rubino']
+aMBSAx,Jeff Lonneker,
+aMCFRx,Jeff Lonneker,['Ken Boykin']
+aMIFRx,,['Ken Boykin']
+aMLSAx,Jeff Lonneker,
+aMLYSx,,['Ken Boykin']
+aMOSAx,Matt Rubino,
+aMRSAx,,['Matthew Rubino']
+aMSSAx,Steve Williams,['Matthew Rubino']
+aMUDPx,Nathan Tarr,['Matthew Rubino']
+aMUSAx,Steve Williams,['Matthew Rubino']
+aMWLFx,,['Ken Boykin']
+aMXSPx,Jeff Lonneker,['Ken Boykin']
+aMXTRx,,['Ken Boykin']
+aNCFRx,Jeff Lonneker,['Thomas Laxson']
+aNDSAx,Steve Williams,['Matthew Rubino']
+aNDSIx,Jeff Lonneker,
+aNGCSx,Jeff Lonneker,
+aNJFRx,,['Ken Boykin']
+aNLFRx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+aNOSAx,Jeff Lonneker,['Ken Boykin']
+aNPTRx,Jeff Lonneker,['Ken Boykin']
+aNRLFx,Jeff Lonneker,"['Thomas Laxson', 'Matthew Rubino']"
+aNRSAx,,['Matthew Rubino']
+aNRWAx,Jeff Lonneker,
+aNSSAx,Steve Williams,
+aNTLSx,Steve Williams,['Matthew Rubino']
+aNZSAx,Steve Williams,['Matthew Rubino']
+aOATOx,Nathan Tarr,['Matthew Rubino']
+aOCFRx,Jeff Lonneker,['Ken Boykin']
+aOCSAx,Jeff Lonneker,
+aOCSSx,Jeff Lonneker,
+aODSAx,,['Matthew Rubino']
+aOKSAx,,['Matthew Rubino']
+aORFRx,Matt Rubino,['Matthew Rubino']
+aOSSAx,Jeff Lonneker,['Ken Boykin']
+aOTAMx,Jeff Lonneker,
+aOTSAx,Jeff Lonneker,['Ken Boykin']
+aOZSAx,,['Matthew Rubino']
+aPBTRx,Jeff Lonneker,
+aPIFRx,Jeff Lonneker,['Ken Boykin']
+aPIGFx,Steve Williams,['Ken Boykin']
+aPLFRx,Jeff Lonneker,['Ken Boykin']
+aPLSPx,Jeff Lonneker,['Ken Boykin']
+aPMSAx,Jeff Lonneker,
+aPOSAx,Jeff Lonneker,
+aPWTRx,Jeff Lonneker,['Ken Boykin']
+aPYSAx,Jeff Lonneker,
+aRBNEx,,['Ken Boykin']
+aRCSAx,Jeff Lonneker,
+aRESAx,Steve Williams,['Matthew Rubino']
+aRFSAx,,['Matthew Rubino']
+aRGCFx,,['Ken Boykin']
+aRGLFx,Jeff Lonneker,['Ken Boykin']
+aRHSAx,Jeff Lonneker,
+aRIFRx,Jeff Lonneker,
+aRISAx,,['Matthew Rubino']
+aRLFRx,Jeff Lonneker,['Ken Boykin']
+aRLSAx,Jeff Lonneker,
+aRMSAx,,['Matthew Rubino']
+aROTFx,Jeff Lonneker,['Ken Boykin']
+aRSNEx,Jeff Lonneker,['Ken Boykin']
+aRSSAx,,['Ken Boykin']
+aRSTOx,Jeff Lonneker,['Ken Boykin']
+aSADSx,Jeff Lonneker,
+aSASAx,,['Ken Boykin']
+aSCFRx,Jeff Lonneker,['Ken Boykin']
+aSCSAx,,['Ken Boykin']
+aSCSSx,Jeff Lonneker,
+aSDSAx,Jeff Lonneker,
+aSDSIx,,['Matthew Rubino']
+aSEASx,Steve Williams,['Matthew Rubino']
+aSEESx,Jeff Lonneker,
+aSENEx,,['Ken Boykin']
+aSGCSx,Jeff Lonneker,
+aSGSSx,,['Ken Boykin']
+aSGTOx,Jeff Lonneker,['Ken Boykin']
+aSHFRx,,['Ken Boykin']
+aSHMSx,,['Matthew Rubino']
+aSHSAx,,['Ken Boykin']
+aSITRx,,['Ken Boykin']
+aSLFRx,Jeff Lonneker,['Ken Boykin']
+aSMFRx,Jeff Lonneker,['Ken Boykin']
+aSMGSx,Jeff Lonneker,
+aSMMSx,Steve Williams,['Matthew Rubino']
+aSMSAx,,['Ken Boykin']
+aSMSSx,,['Ken Boykin']
+aSMTSx,Jeff Lonneker,['Ken Boykin']
+aSNSAx,Jeff Lonneker,
+aSNTOx,Jeff Lonneker,['Ken Boykin']
+aSOASx,Jeff Lonneker,
+aSODSx,Nathan Tarr,['Matthew Rubino']
+aSOFRx,Jeff Lonneker,
+aSOTOx,Jeff Lonneker,['Ken Boykin']
+aSPCFx,,['Ken Boykin']
+aSPDSx,,['Matthew Rubino']
+aSPFRx,,['Ken Boykin']
+aSPOSx,Steve Williams,['Matthew Rubino']
+aSPPEx,Jeff Lonneker,['Ken Boykin']
+aSPRSx,Steve Williams,['Matthew Rubino']
+aSQSAx,,['Matthew Rubino']
+aSQTRx,Jeff Lonneker,['Ken Boykin']
+aSRBSx,Steve Williams,['Matthew Rubino']
+aSRSAx,Steve Williams,['Matthew Rubino']
+aSSLSx,,['Ken Boykin']
+aSSMSx,Steve Williams,['Matthew Rubino']
+aSSSSx,,['Ken Boykin']
+aSSYSx,Jeff Lonneker,
+aSTFRx,,['Ken Boykin']
+aSTLSx,Steve Williams,['Matthew Rubino']
+aSTNEx,Jeff Lonneker,
+aSTOSx,Jeff Lonneker,['Ken Boykin']
+aSTRSx,Steve Williams,['Matthew Rubino']
+aSYLFx,,['Ken Boykin']
+aSYSAx,Jeff Lonneker,['Ken Boykin']
+aSZSAx,Jeff Lonneker,
+aTBSAx,,['Ken Boykin']
+aTCSAx,Jeff Lonneker,
+aTESAx,Jeff Lonneker,
+aTETOx,Jeff Lonneker,['Ken Boykin']
+aTHAMx,Steve Williams,['Matthew Rubino']
+aTLSAx,Matt Rubino,
+aTSSAx,,['Ken Boykin']
+aTWAMx,Steve Williams,['Matthew Rubino']
+aTXSAx,,['Ken Boykin']
+aUCFRx,,['Ken Boykin']
+aVDSAx,Jeff Lonneker,['Ken Boykin']
+aVFSAx,,['Ken Boykin']
+aVRSAx,Steve Williams,['Matthew Rubino']
+aWASAx,Nathan Tarr,"['Ken Boykin', 'Matthew Rubino']"
+aWBSAx,Steve Williams,['Matthew Rubino']
+aWCFRx,Jeff Lonneker,['Ken Boykin']
+aWESPx,,['Ken Boykin']
+aWHSAx,Matt Rubino,
+aWLSAx,Jeff Lonneker,
+aWNMTx,Jeff Lonneker,['Ken Boykin']
+aWOFRx,Jeff Lonneker,['Thomas Laxson']
+aWOTOx,Jeff Lonneker,['Ken Boykin']
+aWRBSx,Jeff Lonneker,['Ken Boykin']
+aWSSAx,,['Matthew Rubino']
+aWSSSx,Matt Rubino,
+aWVSSx,,['Matthew Rubino']
+aWYTOx,Jeff Lonneker,['Ken Boykin']
+aYOSAx,Jeff Lonneker,
+aYOTOx,,['Ken Boykin']
+bABDUx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino']"
+bABTOx,Jeff Lonneker,
+bACFLx,Jeff Lonneker,['Nathan Tarr']
+bACWOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bALFLx,Jeff Lonneker,['Nathan Tarr']
+bALHUx,Jeff Lonneker,
+bALORx,Jeff Lonneker,['Robert Adair']
+bAMAVx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bAMBIx,Jeff Lonneker,['Jeff Lonneker']
+bAMCOx,Jeff Lonneker,
+bAMCRx,Matt Rubino,
+bAMDIx,Matt Rubino,['Nathan Tarr']
+bAMFLx,Jeff Lonneker,
+bAMGOx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bAMKEx,Nathan Tarr,
+bAMOYx,Matt Rubino,['Nathan Tarr']
+bAMPIx,Matt Rubino,
+bAMREx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bAMROx,Nathan Tarr,['Nathan Tarr']
+bAMWIx,Matt Rubino,
+bAMWOx,Matt Rubino,['Nathan Tarr']
+bANHIx,Steve Williams,['Nathan Tarr']
+bANHUx,Jeff Lonneker,
+bANNIx,Jeff Lonneker,
+bAPFAx,Matt Rubino,['Robert Adair']
+bARTEx,Matt Rubino,
+bARWOx,Nathan Tarr,['Matthew Rubino']
+bASSPx,,"['Thomas Laxson', 'Robert Adair']"
+bATBRx,,
+bATFLx,Matt Rubino,['Nathan Tarr']
+bATPUx,Matt Rubino,['Nathan Tarr']
+bATSPx,,
+bATTWx,Nathan Tarr,
+bAUORx,Matt Rubino,['Robert Adair']
+bAWPEx,Jeff Lonneker,"['Nathan Tarr', 'Matthew Rubino', 'Thomas Laxson']"
+bBACSx,Jeff Lonneker,['Nathan Tarr']
+bBADOx,Nathan Tarr,
+bBAEAx,Nathan Tarr,['Thomas Laxson']
+bBAGOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBAISx,Matt Rubino,['Thomas Laxson']
+bBANOx,Nathan Tarr,
+bBANSx,Nathan Tarr,['Nathan Tarr']
+bBAORx,Matt Rubino,['Nathan Tarr']
+bBARSx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBAWWx,Nathan Tarr,['Nathan Tarr']
+bBBCUx,Jeff Lonneker,"['Nathan Tarr', 'Matthew Rubino']"
+bBBEHx,Matt Rubino,['Nathan Tarr']
+bBBFLx,Jeff Lonneker,
+bBBIHx,Jeff Lonneker,
+bBBMAx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBBPLx,,['Nathan Tarr']
+bBBWAx,Matt Rubino,['Nathan Tarr']
+bBBWDx,Matt Rubino,['Nathan Tarr']
+bBBWOx,Matt Rubino,
+bBCCHx,Nathan Tarr,['Matthew Rubino']
+bBCFLx,Jeff Lonneker,
+bBCHUx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBCNHx,Nathan Tarr,"['Nathan Tarr', 'Jeff Lonneker', 'Robert Adair']"
+bBCNIx,Jeff Lonneker,
+bBCRFx,Nathan Tarr,['Matthew Rubino']
+bBCSPx,Matt Rubino,['Robert Adair']
+bBCTIx,Nathan Tarr,['Nathan Tarr']
+bBCVIx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bBEKIx,Matt Rubino,['Nathan Tarr']
+bBETHx,Jeff Lonneker,['Ken Boykin']
+bBEVIx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bBEWRx,Jeff Lonneker,['Matthew Rubino']
+bBGGNx,Nathan Tarr,['Nathan Tarr']
+bBHCOx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bBHGRx,Matt Rubino,['Robert Adair']
+bBHNUx,Nathan Tarr,['Nathan Tarr']
+bBHVIx,Matt Rubino,['Nathan Tarr']
+bBITHx,Jeff Lonneker,['Nathan Tarr']
+bBLBWx,Matt Rubino,['Nathan Tarr']
+bBLGRx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bBLGUx,Matt Rubino,['Robert Adair']
+bBLJAx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bBLOYx,Matt Rubino,['Robert Adair']
+bBLPHx,,"['Matthew Rubino', 'Robert Adair']"
+bBLPWx,Jeff Lonneker,['Nathan Tarr']
+bBLRAc,Jeff Lonneker,
+bBLRAx,Jeff Lonneker,['Robert Adair']
+bBLRFx,Matt Rubino,['Nathan Tarr']
+bBLSCx,,['Nathan Tarr']
+bBLSKx,Matt Rubino,['Nathan Tarr']
+bBLSWx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBLTEx,Jeff Lonneker,['Thomas Laxson']
+bBLTUx,,"['Thomas Laxson', 'Robert Adair']"
+bBLVUx,Matt Rubino,
+bBNSTx,Nathan Tarr,"['Nathan Tarr', 'Robert Adair']"
+bBOBOx,Matt Rubino,
+bBOCHx,Nathan Tarr,['Matthew Rubino']
+bBOGUx,Matt Rubino,['Robert Adair']
+bBOOWx,Nathan Tarr,['Matthew Rubino']
+bBOSPx,Matt Rubino,['Robert Adair']
+bBOWAx,Matt Rubino,['Robert Adair']
+bBRACx,Jeff Lonneker,['Robert Adair']
+bBRBLx,Matt Rubino,
+bBRCRx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bBRJAx,Matt Rubino,['Robert Adair']
+bBRNOx,Jeff Lonneker,
+bBROCx,Matt Rubino,['Robert Adair']
+bBRPEa,Matt Rubino,
+bBRPEc,Matt Rubino,
+bBRPEx,Steve Williams,
+bBRSPx,Jeff Lonneker,['Thomas Laxson']
+bBRTEx,Jeff Lonneker,
+bBRTHx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino']"
+bBRTIx,Jeff Lonneker,
+bBTAHx,Nathan Tarr,['Matthew Rubino']
+bBTBWx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bBTGNx,Matt Rubino,['Robert Adair']
+bBTGRx,Matt Rubino,
+bBTHHx,Matt Rubino,['Robert Adair']
+bBTNWx,Matt Rubino,['Nathan Tarr']
+bBTPIx,Nathan Tarr,['Matthew Rubino']
+bBTSPx,Jeff Lonneker,
+bBTYWx,Jeff Lonneker,['Matthew Rubino']
+bBUFFx,Nathan Tarr,['Matthew Rubino']
+bBUORx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBUOWf,Matt Rubino,['Nathan Tarr']
+bBUOWh,Matt Rubino,['Nathan Tarr']
+bBUOWx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bBUSHx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bBWHAx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bBWTEx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bBWVIx,Jeff Lonneker,
+bBWWAx,Jeff Lonneker,['Nathan Tarr']
+bCAAUx,,['Thomas Laxson']
+bCACGx,,"['Nathan Tarr', 'Robert Adair']"
+bCACHx,Nathan Tarr,['Nathan Tarr']
+bCACOx,Jeff Lonneker,"['Thomas Laxson', 'Jeff Lonneker', 'Robert Adair']"
+bCACWx,Rob Adair,['Robert Adair']
+bCAEGx,Steve Williams,"['Nathan Tarr', 'Jeff Lonneker']"
+bCAFIx,Jeff Lonneker,
+bCAGNx,Jeff Lonneker,['Thomas Laxson']
+bCAGUx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bCAHUx,Jeff Lonneker,
+bCAKIx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bCALTx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bCANGx,Matt Rubino,['Nathan Tarr']
+bCANTx,Jeff Lonneker,['Robert Adair']
+bCANVx,Matt Rubino,"['Thomas Laxson', 'Robert Adair']"
+bCANWx,Matt Rubino,['Robert Adair']
+bCAQUx,Nathan Tarr,['Thomas Laxson']
+bCARWx,Nathan Tarr,"['Nathan Tarr', 'Matthew Rubino']"
+bCASPx,,
+bCASWx,Matt Rubino,['Nathan Tarr']
+bCATEx,Matt Rubino,
+bCATHx,,
+bCAVIx,,"['Matthew Rubino', 'Robert Adair']"
+bCAWAx,Matt Rubino,['Nathan Tarr']
+bCBCHx,Steve Williams,['Matthew Rubino']
+bCBTHx,Jeff Lonneker,['Robert Adair']
+bCCLOx,Jeff Lonneker,['Thomas Laxson']
+bCCSPx,Matt Rubino,['Robert Adair']
+bCEDWx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCERWx,Jeff Lonneker,['Nathan Tarr']
+bCHRAx,Matt Rubino,['Robert Adair']
+bCHSPx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCHSWx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCHUKx,Jeff Lonneker,"['Thomas Laxson', 'Jeff Lonneker', 'Robert Adair']"
+bCITEx,Matt Rubino,
+bCLGRx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bCLNUx,Jeff Lonneker,
+bCLRAx,Matt Rubino,
+bCLSWx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCMWAx,Matt Rubino,['Nathan Tarr']
+bCOBHx,Steve Williams,['Robert Adair']
+bCOEIx,Matt Rubino,
+bCOFLx,,['Matthew Rubino']
+bCOGDx,Matt Rubino,
+bCOGOx,Nathan Tarr,['Matthew Rubino']
+bCOGRx,Jeff Lonneker,['Nathan Tarr']
+bCOHAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCOHUx,Jeff Lonneker,
+bCOKIx,Matt Rubino,['Robert Adair']
+bCOLOx,Matt Rubino,"['Matthew Rubino', 'Robert Adair']"
+bCOLWx,Jeff Lonneker,['Robert Adair']
+bCOMEx,Steve Williams,['Matthew Rubino']
+bCOMOx,Matt Rubino,['Nathan Tarr']
+bCOMUx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bCOMYx,Matt Rubino,['Nathan Tarr']
+bCONIx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Jeff Lonneker']"
+bCONWx,Matt Rubino,['Nathan Tarr']
+bCOPAx,Matt Rubino,['Robert Adair']
+bCOPOx,Jeff Lonneker,
+bCORAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bCOREx,,"['Matthew Rubino', 'Robert Adair']"
+bCOTEx,Matt Rubino,['Nathan Tarr']
+bCOYEx,Jeff Lonneker,['Thomas Laxson']
+bCRCAx,Matt Rubino,['Nathan Tarr']
+bCRTHx,Rob Adair,['Robert Adair']
+bCSWAx,Jeff Lonneker,
+bCWWIx,Matt Rubino,['Nathan Tarr']
+bDCCOx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bDCFLx,Jeff Lonneker,
+bDEJUx,Jeff Lonneker,"['Nathan Tarr', 'Jeff Lonneker']"
+bDICKx,Jeff Lonneker,['Nathan Tarr']
+bDOVEx,,['Nathan Tarr']
+bDOWOx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bDUFLx,Jeff Lonneker,
+bDUGRx,Jeff Lonneker,
+bDUNLx,Jeff Lonneker,['Nathan Tarr']
+bEABLx,Matt Rubino,
+bEAGRx,Jeff Lonneker,['Robert Adair']
+bEAKIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bEAMEx,Jeff Lonneker,
+bEAPHx,Jeff Lonneker,['Nathan Tarr']
+bEASOx,Nathan Tarr,
+bEATOx,Matt Rubino,['Nathan Tarr']
+bEAWPx,Matt Rubino,['Nathan Tarr']
+bELOWx,Jeff Lonneker,
+bELTEx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bELTRx,Jeff Lonneker,
+bETSPx,Jeff Lonneker,['Nathan Tarr']
+bEUCDx,Matt Rubino,['Nathan Tarr']
+bEUSTx,Jeff Lonneker,"['Thomas Laxson', 'Jeff Lonneker', 'Robert Adair']"
+bEUWIx,,['Nathan Tarr']
+bEVGRx,Jeff Lonneker,
+bEWCSx,Matt Rubino,['Robert Adair']
+bFEHAx,Jeff Lonneker,['Thomas Laxson']
+bFEPOc,,['Nathan Tarr']
+bFEPOx,Matt Rubino,['Robert Adair']
+bFICRx,Matt Rubino,
+bFISPx,Matt Rubino,['Nathan Tarr']
+bFLOWx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+bFLSJx,Jeff Lonneker,
+bFOSPx,Jeff Lonneker,['Robert Adair']
+bFOTEx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bFRGUx,Matt Rubino,
+bFSSPx,Jeff Lonneker,
+bFTSPx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bFUWDx,Steve Williams,"['Nathan Tarr', 'Robert Adair']"
+bGADWx,Jeff Lonneker,
+bGAQUx,Matt Rubino,['Matthew Rubino']
+bGBANx,Matt Rubino,['Robert Adair']
+bGBBGx,Jeff Lonneker,['Nathan Tarr']
+bGBHEx,Nathan Tarr,"['Nathan Tarr', 'Jeff Lonneker']"
+bGBTEx,Jeff Lonneker,"['Nathan Tarr', 'Jeff Lonneker', 'Robert Adair']"
+bGCFLx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino']"
+bGCKIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bGCRFx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bGCSPx,,['Robert Adair']
+bGCWAx,,"['Matthew Rubino', 'Robert Adair']"
+bGFWOx,Matt Rubino,['Robert Adair']
+bGGOWx,Matt Rubino,
+bGHOWx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bGIFLx,Jeff Lonneker,
+bGIWOx,Jeff Lonneker,['Nathan Tarr']
+bGKINx,Matt Rubino,['Robert Adair']
+bGKISx,Matt Rubino,['Robert Adair']
+bGLGUx,,['Nathan Tarr']
+bGLIBx,Jeff Lonneker,
+bGOEAx,Jeff Lonneker,['Thomas Laxson']
+bGRAJx,Jeff Lonneker,
+bGRAKx,Jeff Lonneker,
+bGRAPx,Jeff Lonneker,"['Jeff Lonneker', 'Robert Adair']"
+bGRCAx,Steve Williams,"['Nathan Tarr', 'Jeff Lonneker']"
+bGRCOx,Matt Rubino,['Nathan Tarr']
+bGREGx,Nathan Tarr,"['Nathan Tarr', 'Robert Adair']"
+bGREJx,Matt Rubino,['Robert Adair']
+bGREPx,,['Robert Adair']
+bGRFLx,Jeff Lonneker,
+bGRHAx,Jeff Lonneker,['Robert Adair']
+bGRHEx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bGRPCa,Matt Rubino,['Matthew Rubino']
+bGRPCp,,"['Thomas Laxson', 'Robert Adair']"
+bGRPCx,Steve Williams,"['Nathan Tarr', 'Matthew Rubino']"
+bGRPEx,Jeff Lonneker,
+bGRROx,Matt Rubino,['Robert Adair']
+bGRSCx,Matt Rubino,['Nathan Tarr']
+bGRSGx,Jeff Lonneker,
+bGRSPf,Steve Williams,['Matthew Rubino']
+bGRSPx,Jeff Lonneker,['Nathan Tarr']
+bGRVIx,Jeff Lonneker,
+bGRWAx,Matt Rubino,['Robert Adair']
+bGRYEx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino']"
+bGTGRx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bGTTOx,Jeff Lonneker,
+bGUSGx,Jeff Lonneker,
+bGWFGe,,['Jeff Lonneker']
+bGWFGx,Matt Rubino,['Robert Adair']
+bGWGUx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bGWTEx,Matt Rubino,
+bGWWAx,Matt Rubino,['Nathan Tarr']
+bGYRFx,,
+bHADUx,Jeff Lonneker,"['Matthew Rubino', 'Jeff Lonneker', 'Robert Adair']"
+bHAFLx,,"['Matthew Rubino', 'Robert Adair']"
+bHASHx,Matt Rubino,['Robert Adair']
+bHASPx,Jeff Lonneker,
+bHAWOx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bHBKIx,Jeff Lonneker,['Robert Adair']
+bHEEGx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bHERGx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bHESPx,Jeff Lonneker,['Nathan Tarr']
+bHETAx,Matt Rubino,['Robert Adair']
+bHETHx,Jeff Lonneker,
+bHEWAx,Jeff Lonneker,
+bHOFIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bHOGRx,Matt Rubino,['Nathan Tarr']
+bHOLAx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson', 'Jeff Lonneker']"
+bHOMEx,Nathan Tarr,['Matthew Rubino']
+bHOORx,Jeff Lonneker,
+bHOREx,,
+bHOSPx,Matt Rubino,['Robert Adair']
+bHOWAx,Matt Rubino,['Nathan Tarr']
+bHOWRx,Steve Williams,['Matthew Rubino']
+bHUVIx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bICGUx,Matt Rubino,['Nathan Tarr']
+bINBUx,Matt Rubino,['Nathan Tarr']
+bINDOx,Jeff Lonneker,['Robert Adair']
+bISSJx,Jeff Lonneker,['Robert Adair']
+bJUTIx,Nathan Tarr,
+bKEWAx,Matt Rubino,['Nathan Tarr']
+bKIEIx,,['Nathan Tarr']
+bKILLx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bKIRAx,Jeff Lonneker,"['Nathan Tarr', 'Robert Adair']"
+bKIWAx,Nathan Tarr,['Robert Adair']
+bLAGOx,Jeff Lonneker,
+bLAGUx,Steve Williams,"['Nathan Tarr', 'Matthew Rubino']"
+bLALOx,,['Nathan Tarr']
+bLARBx,Steve Williams,
+bLASPx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bLAZBx,Jeff Lonneker,"['Nathan Tarr', 'Robert Adair']"
+bLBBGx,Matt Rubino,
+bLBCUx,Jeff Lonneker,['Thomas Laxson']
+bLBDOx,Jeff Lonneker,['Nathan Tarr']
+bLBHEx,Matt Rubino,['Nathan Tarr']
+bLBTHx,Jeff Lonneker,
+bLBWOx,Jeff Lonneker,
+bLCSPx,Matt Rubino,['Nathan Tarr']
+bLCTHx,Jeff Lonneker,
+bLEBIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bLEFLx,Steve Williams,['Nathan Tarr']
+bLEGOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bLEGRx,Rob Adair,
+bLENIx,Rob Adair,['Robert Adair']
+bLEOWx,Steve Williams,['Matthew Rubino']
+bLEPCx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bLESAx,Rob Adair,['Nathan Tarr']
+bLESCx,Jeff Lonneker,
+bLESPx,Steve Williams,
+bLETEa,Matt Rubino,
+bLETEb,Matt Rubino,
+bLETEx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+bLEWOx,Jeff Lonneker,['Thomas Laxson']
+bLEYEx,,['Nathan Tarr']
+bLIGUx,Jeff Lonneker,"['Nathan Tarr', 'Robert Adair']"
+bLIMPx,Jeff Lonneker,
+bLISPx,Matt Rubino,
+bLOSHx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+bLOWAx,Steve Williams,['Robert Adair']
+bLTDUx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bLUHUx,Jeff Lonneker,['Robert Adair']
+bLUWAx,Nathan Tarr,['Matthew Rubino']
+bMABOx,Jeff Lonneker,"['Nathan Tarr', 'Matthew Rubino']"
+bMACUx,Jeff Lonneker,
+bMADUx,Jeff Lonneker,['Robert Adair']
+bMAFRx,Rob Adair,
+bMAGOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bMAHUx,Jeff Lonneker,
+bMALLx,Rob Adair,['Nathan Tarr']
+bMAMUx,Jeff Lonneker,"['Matthew Rubino', 'Robert Adair']"
+bMASHx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bMAWAx,Jeff Lonneker,['Nathan Tarr']
+bMAWRx,Jeff Lonneker,
+bMCLOx,Matt Rubino,"['Matthew Rubino', 'Robert Adair']"
+bMECHx,Jeff Lonneker,
+bMEGUx,,"['Thomas Laxson', 'Robert Adair']"
+bMEJAx,Rob Adair,['Robert Adair']
+bMERLx,Jeff Lonneker,
+bMGWAx,,"['Matthew Rubino', 'Robert Adair']"
+bMIKIx,Steve Williams,
+bMIPAx,,"['Matthew Rubino', 'Robert Adair']"
+bMOBLx,Jeff Lonneker,
+bMOCHx,Nathan Tarr,['Matthew Rubino']
+bMODOx,Matt Rubino,['Nathan Tarr']
+bMODUx,Rob Adair,['Nathan Tarr']
+bMONQx,Jeff Lonneker,['Robert Adair']
+bMOPAx,Rob Adair,['Nathan Tarr']
+bMOPLx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bMOUQx,Jeff Lonneker,
+bMOWAx,Matt Rubino,['Nathan Tarr']
+bMUDUx,Rob Adair,['Robert Adair']
+bMUSWx,Rob Adair,
+bNAWAx,,['Robert Adair']
+bNECOx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bNOBOx,Steve Williams,"['Nathan Tarr', 'Jeff Lonneker']"
+bNOBTx,Jeff Lonneker,['Robert Adair']
+bNOCAx,Rob Adair,['Nathan Tarr']
+bNOCRx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bNOFLx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bNOGOx,Jeff Lonneker,"['Thomas Laxson', 'Matthew Rubino']"
+bNOHAx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson']"
+bNOMOx,Steve Williams,"['Nathan Tarr', 'Robert Adair']"
+bNOPAx,Steve Williams,['Nathan Tarr']
+bNOPIx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bNOPOc,Matt Rubino,['Nathan Tarr']
+bNOPOg,,
+bNOPOx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bNOWAx,Matt Rubino,
+bNRWSx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bNSHOx,Matt Rubino,['Robert Adair']
+bNSHRx,,
+bNSTSx,Matt Rubino,['Nathan Tarr']
+bNSWOx,Nathan Tarr,['Matthew Rubino']
+bNUWOx,,['Matthew Rubino']
+bOATIx,Matt Rubino,['Nathan Tarr']
+bOCWAx,Jeff Lonneker,['Robert Adair']
+bOLSPx,Rob Adair,['Robert Adair']
+bOLWAx,Jeff Lonneker,
+bORORx,Jeff Lonneker,['Nathan Tarr']
+bOSFLx,Jeff Lonneker,['Thomas Laxson']
+bOSPRx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson', 'Jeff Lonneker']"
+bOVENx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bPABUx,Jeff Lonneker,['Robert Adair']
+bPAGPx,Jeff Lonneker,['Robert Adair']
+bPAJAx,,['Robert Adair']
+bPALOx,,"['Thomas Laxson', 'Robert Adair']"
+bPAREx,Jeff Lonneker,['Robert Adair']
+bPAWAx,Jeff Lonneker,['Nathan Tarr']
+bPBGRx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bPECOx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bPEFAx,Jeff Lonneker,['Thomas Laxson']
+bPHAIx,Steve Williams,
+bPHVIx,Matt Rubino,['Nathan Tarr']
+bPIGRx,Jeff Lonneker,
+bPIGUx,Nathan Tarr,['Robert Adair']
+bPIJAx,Jeff Lonneker,
+bPIPLx,Jeff Lonneker,"['Nathan Tarr', 'Jeff Lonneker']"
+bPISIx,Jeff Lonneker,['Nathan Tarr']
+bPIWAx,Rob Adair,['Nathan Tarr']
+bPIWOx,Rob Adair,"['Nathan Tarr', 'Thomas Laxson']"
+bPLCHx,Jeff Lonneker,['Robert Adair']
+bPLVIx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bPRAWx,Matt Rubino,
+bPRFAx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bPROWx,Nathan Tarr,['Nathan Tarr']
+bPSFLx,Steve Williams,['Matthew Rubino']
+bPUFIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bPUGAx,Jeff Lonneker,['Nathan Tarr']
+bPUMAx,Jeff Lonneker,"['Matthew Rubino', 'Robert Adair']"
+bPUSAx,Matt Rubino,['Nathan Tarr']
+bPYNUx,Nathan Tarr,['Matthew Rubino']
+bPYRRx,Jeff Lonneker,['Robert Adair']
+bRAZOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bRBGRx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bRBGUx,Matt Rubino,
+bRBMEx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino']"
+bRBNUx,Nathan Tarr,['Matthew Rubino']
+bRBPIx,Steve Williams,['Robert Adair']
+bRBSAx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bRBWOx,Matt Rubino,['Nathan Tarr']
+bRCKIx,Jeff Lonneker,
+bRCPAx,,['Robert Adair']
+bRCSPx,Matt Rubino,['Robert Adair']
+bRCWOx,Steve Williams,['Nathan Tarr']
+bRECRx,Rob Adair,['Robert Adair']
+bREDHx,Jeff Lonneker,['Nathan Tarr']
+bREEGx,Steve Williams,['Nathan Tarr']
+bREKNx,Matt Rubino,['Matthew Rubino']
+bREPHx,Matt Rubino,['Nathan Tarr']
+bREVIx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bRFWAx,Jeff Lonneker,
+bRHAUx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bRHWOx,Steve Williams,
+bRLHAx,,
+bRNDUx,Jeff Lonneker,
+bRNEPx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bRNGRx,Matt Rubino,
+bRNSAx,Jeff Lonneker,
+bROGOx,Matt Rubino,
+bROPIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bROSAx,,"['Thomas Laxson', 'Robert Adair']"
+bROSPx,Rob Adair,['Nathan Tarr']
+bROSTx,Steve Williams,['Nathan Tarr']
+bROWRx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bROYTx,Steve Williams,['Nathan Tarr']
+bRSHAx,Jeff Lonneker,"['Nathan Tarr', 'Jeff Lonneker']"
+bRTBEx,Jeff Lonneker,['Robert Adair']
+bRTHAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bRTHUx,Matt Rubino,['Nathan Tarr']
+bRTLOx,Rob Adair,['Nathan Tarr']
+bRUBLx,Jeff Lonneker,['Nathan Tarr']
+bRUDUx,Matt Rubino,
+bRUGRx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker', 'Robert Adair']"
+bRUHUx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bRUTUx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bRWBLx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bRWSPx,Jeff Lonneker,
+bSACRx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bSAGSa,,
+bSAGSb,Matt Rubino,
+bSAGSc,,
+bSAGSn,Matt Rubino,
+bSAGSx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bSANDx,Matt Rubino,['Robert Adair']
+bSAPHx,Steve Williams,"['Matthew Rubino', 'Robert Adair']"
+bSATEx,Rob Adair,['Nathan Tarr']
+bSATHx,Jeff Lonneker,
+bSAVSx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bSBAOx,Jeff Lonneker,
+bSBDOx,,"['Matthew Rubino', 'Robert Adair']"
+bSBFLx,Steve Williams,
+bSBORx,Jeff Lonneker,['Nathan Tarr']
+bSCORx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bSCQUx,Jeff Lonneker,['Robert Adair']
+bSCTAx,Matt Rubino,['Nathan Tarr']
+bSEOWx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson', 'Jeff Lonneker']"
+bSEPLx,Rob Adair,['Nathan Tarr']
+bSESPx,Jeff Lonneker,['Nathan Tarr']
+bSEWRx,Jeff Lonneker,['Nathan Tarr']
+bSHCOx,Jeff Lonneker,
+bSMLOx,,['Nathan Tarr']
+bSNBUx,,
+bSNEGx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+bSNGOx,,['Robert Adair']
+bSNKIx,Jeff Lonneker,
+bSNOWx,Jeff Lonneker,
+bSNPLn,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bSNPLx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bSOGRx,Jeff Lonneker,
+bSORAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bSOSAx,Matt Rubino,['Nathan Tarr']
+bSOSPx,Rob Adair,
+bSOTEx,Rob Adair,['Nathan Tarr']
+bSPDOx,,['Thomas Laxson']
+bSPGRx,Jeff Lonneker,
+bSPOWc,,['Nathan Tarr']
+bSPOWl,,['Nathan Tarr']
+bSPOWo,Matt Rubino,['Nathan Tarr']
+bSPOWx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+bSPPIx,Jeff Lonneker,['Thomas Laxson']
+bSPSAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bSPTOx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bSSHAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bSSTSx,Rob Adair,['Nathan Tarr']
+bSTFLx,Rob Adair,['Nathan Tarr']
+bSTGRa,Matt Rubino,
+bSTGRc,Matt Rubino,['Nathan Tarr']
+bSTGRj,Matt Rubino,
+bSTGRx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bSTHAx,Jeff Lonneker,
+bSTJAx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bSTKIx,Rob Adair,['Nathan Tarr']
+bSTSAx,Matt Rubino,['Nathan Tarr']
+bSURFx,,"['Thomas Laxson', 'Robert Adair']"
+bSUSCx,Rob Adair,['Nathan Tarr']
+bSUTAx,Jeff Lonneker,['Nathan Tarr']
+bSWHAx,Matt Rubino,"['Thomas Laxson', 'Jeff Lonneker']"
+bSWSPx,Rob Adair,['Nathan Tarr']
+bSWTHx,,"['Nathan Tarr', 'Robert Adair']"
+bSWWAx,Jeff Lonneker,['Nathan Tarr']
+bTACRx,Jeff Lonneker,
+bTBKIx,Jeff Lonneker,
+bTBMUx,,"['Nathan Tarr', 'Robert Adair']"
+bTEWAx,Jeff Lonneker,['Nathan Tarr']
+bTHGUx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bTOSOx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bTOWAx,,"['Matthew Rubino', 'Robert Adair']"
+bTRBLx,Steve Williams,
+bTRESx,,"['Nathan Tarr', 'Matthew Rubino']"
+bTRHEx,Rob Adair,['Nathan Tarr']
+bTRKIx,Jeff Lonneker,
+bTRPAx,Jeff Lonneker,['Robert Adair']
+bTRUSx,Jeff Lonneker,['Matthew Rubino']
+bTUPUx,Jeff Lonneker,['Robert Adair']
+bTUTIx,Matt Rubino,['Nathan Tarr']
+bTUVUx,Matt Rubino,['Nathan Tarr']
+bUPSAx,Jeff Lonneker,"['Nathan Tarr', 'Matthew Rubino']"
+bVABUx,Jeff Lonneker,['Robert Adair']
+bVASWx,Jeff Lonneker,
+bVATHx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bVCHUx,Jeff Lonneker,
+bVEERx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bVEFLx,Jeff Lonneker,['Robert Adair']
+bVERDx,Matt Rubino,['Robert Adair']
+bVESPa,Steve Williams,['Matthew Rubino']
+bVESPx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bVGSWx,Nathan Tarr,['Matthew Rubino']
+bVIRAx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bVIWAx,Jeff Lonneker,
+bWATAx,,['Robert Adair']
+bWAVIx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bWBNUx,Jeff Lonneker,"['Nathan Tarr', 'Robert Adair']"
+bWCPIx,Jeff Lonneker,
+bWCSEx,Jeff Lonneker,['Robert Adair']
+bWEBLx,Jeff Lonneker,['Robert Adair']
+bWEGRx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bWEGUx,Jeff Lonneker,['Robert Adair']
+bWEKIx,,['Matthew Rubino']
+bWEMEx,Jeff Lonneker,
+bWESAx,Matt Rubino,['Nathan Tarr']
+bWESJx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bWESOx,Jeff Lonneker,
+bWETAx,Jeff Lonneker,['Robert Adair']
+bWEVIx,Matt Rubino,['Nathan Tarr']
+bWEWAx,Matt Rubino,['Nathan Tarr']
+bWEWPx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bWFIBx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bWHCRx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bWHIBx,Rob Adair,['Nathan Tarr']
+bWHIMx,,"['Matthew Rubino', 'Robert Adair']"
+bWHSOx,Jeff Lonneker,
+bWHSWx,Rob Adair,
+bWHWOx,Jeff Lonneker,
+bWIFLx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+bWILLx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bWIPHx,Jeff Lonneker,['Thomas Laxson']
+bWIPLx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+bWISAx,Jeff Lonneker,
+bWISNx,Jeff Lonneker,['Nathan Tarr']
+bWITUi,Matt Rubino,['Nathan Tarr']
+bWITUm,Matt Rubino,['Nathan Tarr']
+bWITUx,Matt Rubino,['Nathan Tarr']
+bWIWAx,,
+bWIWRx,,"['Nathan Tarr', 'Robert Adair']"
+bWODUx,Nathan Tarr,"['Matthew Rubino', 'Robert Adair']"
+bWOSTx,Steve Williams,['Robert Adair']
+bWOTHx,Rob Adair,['Nathan Tarr']
+bWPWIx,Jeff Lonneker,['Nathan Tarr']
+bWRENx,Matt Rubino,['Robert Adair']
+bWTDOx,Jeff Lonneker,
+bWTHAx,Jeff Lonneker,['Robert Adair']
+bWTKIx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bWTPTx,Jeff Lonneker,"['Thomas Laxson', 'Robert Adair']"
+bWTSPx,Jeff Lonneker,['Nathan Tarr']
+bWTSWx,Steve Williams,"['Nathan Tarr', 'Jeff Lonneker', 'Robert Adair']"
+bWWCRx,Matt Rubino,
+bWWDOx,Jeff Lonneker,['Nathan Tarr']
+bWWSCx,Rob Adair,
+bXAMUx,Matt Rubino,"['Nathan Tarr', 'Robert Adair']"
+bYBCHx,Jeff Lonneker,['Nathan Tarr']
+bYBCUx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr', 'Thomas Laxson', 'Robert Adair']"
+bYBFLx,Matt Rubino,['Jeff Lonneker']
+bYBMAx,,['Matthew Rubino']
+bYBSAx,Steve Williams,"['Nathan Tarr', 'Matthew Rubino']"
+bYCNHx,Jeff Lonneker,['Nathan Tarr']
+bYEJUx,Matt Rubino,['Nathan Tarr']
+bYERAx,Rob Adair,"['Nathan Tarr', 'Matthew Rubino']"
+bYFGUx,Jeff Lonneker,['Thomas Laxson']
+bYGVIx,Matt Rubino,['Robert Adair']
+bYHBLx,Jeff Lonneker,
+bYRWAx,Jeff Lonneker,
+bYTVIx,Steve Williams,['Nathan Tarr']
+bYTWAx,Matt Rubino,['Nathan Tarr']
+bYWARx,Matt Rubino,
+bZTHAx,Jeff Lonneker,['Robert Adair']
+mABBEf,,"['Thomas Laxson', 'Matthew Rubino']"
+mABBEl,,['Matthew Rubino']
+mABBEx,Nathan Tarr,"['Thomas Laxson', 'Matthew Rubino']"
+mABEBx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mABSQk,,['Nathan Tarr']
+mABSQx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+mACRAc,,['Thomas Laxson']
+mACRAp,,"['Thomas Laxson', '']"
+mACRAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mACSHx,,['Thomas Laxson']
+mAGSQx,Jeff Lonneker,
+mAHNSx,Jeff Lonneker,"['Nathan Tarr', 'Thomas Laxson']"
+mAKRAx,,['Thomas Laxson']
+mALCHx,,['Thomas Laxson']
+mALWOx,Steve Williams,"['Thomas Laxson', 'Matthew Rubino']"
+mAMBAx,Jeff Lonneker,['Thomas Laxson']
+mAMBEx,Nathan Tarr,['Matthew Rubino']
+mAMMAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mAMMIx,Nathan Tarr,"['Thomas Laxson', 'Matthew Rubino']"
+mANJAx,Jeff Lonneker,
+mAPCOx,Nathan Tarr,['Matthew Rubino']
+mAPGOx,,"['Thomas Laxson', 'Matthew Rubino']"
+mAPMOx,Jeff Lonneker,['Ken Boykin']
+mAPSHx,Jeff Lonneker,['Thomas Laxson']
+mARMYx,Jeff Lonneker,['Thomas Laxson']
+mARSHx,Jeff Lonneker,
+mAWSHx,Jeff Lonneker,
+mAZWOx,Jeff Lonneker,['Ken Boykin']
+mBASHx,Steve Williams,['Matthew Rubino']
+mBBBAx,,"['Nathan Tarr', 'Thomas Laxson']"
+mBCPMx,,['Matthew Rubino']
+mBDSHx,Matt Rubino,
+mBEDEx,Nathan Tarr,['Nathan Tarr']
+mBEWOx,,['Matthew Rubino']
+mBFFEx,Steve Williams,['Thomas Laxson']
+mBFMOx,Nathan Tarr,['Matthew Rubino']
+mBFTBx,Jeff Lonneker,['Thomas Laxson']
+mBGSQx,Matt Rubino,['Nathan Tarr']
+mBISHx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mBISOx,Nathan Tarr,['Matthew Rubino']
+mBOBCx,Nathan Tarr,['Matthew Rubino']
+mBOGOx,Steve Williams,['Thomas Laxson']
+mBPGOx,,['Matthew Rubino']
+mBPMOx,Jeff Lonneker,"['Ken Boykin', 'Matthew Rubino']"
+mBRBEx,Steve Williams,"['Ken Boykin', 'Thomas Laxson']"
+mBRDEx,Nathan Tarr,['Matthew Rubino']
+mBRRAx,Nathan Tarr,['Matthew Rubino']
+mBRRTx,Steve Williams,['Matthew Rubino']
+mBTJAx,Nathan Tarr,['Matthew Rubino']
+mBTKRx,Nathan Tarr,['Matthew Rubino']
+mBTWOx,Steve Williams,['Matthew Rubino']
+mCADEx,,['Nathan Tarr']
+mCALYx,Jeff Lonneker,['Ken Boykin']
+mCAMYx,Jeff Lonneker,
+mCARIc,Nathan Tarr,['Matthew Rubino']
+mCARIx,Steve Williams,['Matthew Rubino']
+mCASEx,Jeff Lonneker,['Thomas Laxson']
+mCASQx,Jeff Lonneker,['Ken Boykin']
+mCAVOc,,['Matthew Rubino']
+mCAVOx,Nathan Tarr,['Matthew Rubino']
+mCCDEx,Nathan Tarr,['Nathan Tarr']
+mCFCHx,,['Matthew Rubino']
+mCGGSx,Matt Rubino,['Nathan Tarr']
+mCGMOx,Nathan Tarr,['Matthew Rubino']
+mCGSHx,,
+mCHITx,,['Matthew Rubino']
+mCHPMx,,['Matthew Rubino']
+mCISHx,Nathan Tarr,['Ken Boykin']
+mCKRAx,Nathan Tarr,['Matthew Rubino']
+mCLCHx,Nathan Tarr,['Matthew Rubino']
+mCLEBx,Jeff Lonneker,['Ken Boykin']
+mCLOBx,Jeff Lonneker,
+mCMMUx,Nathan Tarr,['Matthew Rubino']
+mCNDEx,Nathan Tarr,['Matthew Rubino']
+mCOCHx,Nathan Tarr,['Matthew Rubino']
+mCODEx,Nathan Tarr,['Matthew Rubino']
+mCOORx,Nathan Tarr,['Matthew Rubino']
+mCOPEx,Nathan Tarr,['Matthew Rubino']
+mCOSQx,Matt Rubino,['Nathan Tarr']
+mCOUGc,Nathan Tarr,['Matthew Rubino']
+mCOUGx,Jeff Lonneker,"['Thomas Laxson', 'Matthew Rubino']"
+mCOYOx,Matt Rubino,['Matthew Rubino']
+mCOYPx,Nathan Tarr,['Matthew Rubino']
+mCPGOx,Matt Rubino,['Nathan Tarr']
+mCPMOx,,['Matthew Rubino']
+mCRGSx,Matt Rubino,['Nathan Tarr']
+mCRVOx,Nathan Tarr,['Matthew Rubino']
+mCSMOx,Nathan Tarr,['Matthew Rubino']
+mCTKRx,Nathan Tarr,['Matthew Rubino']
+mCTPGx,,"['Thomas Laxson', 'Matthew Rubino']"
+mCVMYx,Matt Rubino,['Matthew Rubino']
+mDECOx,Nathan Tarr,['Matthew Rubino']
+mDEWOx,Nathan Tarr,['Matthew Rubino']
+mDFWOs,,['Matthew Rubino']
+mDFWOx,Nathan Tarr,['Matthew Rubino']
+mDKMOn,,['Matthew Rubino']
+mDKMOx,Nathan Tarr,['Matthew Rubino']
+mDKRAx,Jeff Lonneker,['Ken Boykin']
+mDOSQx,Jeff Lonneker,['Ken Boykin']
+mDPGOx,Jeff Lonneker,
+mDPMOx,Nathan Tarr,['Matthew Rubino']
+mDUSHx,Matt Rubino,['Nathan Tarr']
+mDWSHx,Jeff Lonneker,['Thomas Laxson']
+mDZRAx,,['Matthew Rubino']
+mEACHx,Nathan Tarr,['Matthew Rubino']
+mEACOx,Steve Williams,['Matthew Rubino']
+mEAMOa,,['Matthew Rubino']
+mEAMOt,,['Matthew Rubino']
+mEAMOx,,['Matthew Rubino']
+mEAPIx,,"['Nathan Tarr', 'Thomas Laxson']"
+mEAWOs,,['Matthew Rubino']
+mEAWOx,Nathan Tarr,['Matthew Rubino']
+mEBSQx,Steve Williams,['Matthew Rubino']
+mEFSQa,,['Matthew Rubino']
+mEFSQc,,['Matthew Rubino']
+mEFSQx,Steve Williams,['Matthew Rubino']
+mEHMOx,Steve Williams,['Matthew Rubino']
+mEHVOx,,['Matthew Rubino']
+mELK1r,Nathan Tarr,['Matthew Rubino']
+mELK1t,Nathan Tarr,['Matthew Rubino']
+mELK1x,Nathan Tarr,"['Jocelyn Aycrigg', 'Matthew Rubino']"
+mERBAx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson']"
+mERMIx,Steve Williams,['Matthew Rubino']
+mESFMx,,
+mESSKx,Jeff Lonneker,
+mESTSx,Matt Rubino,['Nathan Tarr']
+mEVBAx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson']"
+mFADEx,,['Matthew Rubino']
+mFBBAx,,['Nathan Tarr']
+mFGSQx,,['Matthew Rubino']
+mFHMOx,Nathan Tarr,['Matthew Rubino']
+mFISHx,Jeff Lonneker,['Ken Boykin']
+mFLDEx,Steve Williams,
+mFOSHx,Matt Rubino,['Nathan Tarr']
+mFRMYx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mGBBAx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr']"
+mGBPMx,Jeff Lonneker,
+mGCCHx,Jeff Lonneker,
+mGCKRx,,['Matthew Rubino']
+mGEMSx,Nathan Tarr,['Matthew Rubino']
+mGFCHx,Steve Williams,['Matthew Rubino']
+mGFSEx,Jeff Lonneker,['Thomas Laxson']
+mGKRAx,,['Matthew Rubino']
+mGMGSb,Nathan Tarr,['Matthew Rubino']
+mGMGSx,Nathan Tarr,['Matthew Rubino']
+mGOMOx,Steve Williams,['Matthew Rubino']
+mGPDOx,Jeff Lonneker,
+mGRFOx,Nathan Tarr,['Matthew Rubino']
+mGRMYx,Matt Rubino,['Nathan Tarr']
+mGRWOb,,['Matthew Rubino']
+mGRWOr,Jeff Lonneker,
+mGRWOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mGTVOx,Steve Williams,['Matthew Rubino']
+mHASEx,Jeff Lonneker,['Thomas Laxson']
+mHASQx,Jeff Lonneker,['Ken Boykin']
+mHCRAx,Nathan Tarr,['Matthew Rubino']
+mHITAx,,['Matthew Rubino']
+mHKRAm,Steve Williams,['Matthew Rubino']
+mHKRAx,,['Matthew Rubino']
+mHOBAx,Jeff Lonneker,['Thomas Laxson']
+mHOCHx,Steve Williams,['Matthew Rubino']
+mHOMAx,Matt Rubino,['Nathan Tarr']
+mHOMOx,Steve Williams,['Matthew Rubino']
+mHORSx,Steve Williams,['Matthew Rubino']
+mHOSKx,Jeff Lonneker,
+mHPMOx,,['Matthew Rubino']
+mHTMOx,Nathan Tarr,['Matthew Rubino']
+mIGSQb,Steve Williams,['Matthew Rubino']
+mIGSQe,Steve Williams,['Matthew Rubino']
+mIGSQx,,['Matthew Rubino']
+mINMYx,Matt Rubino,['Nathan Tarr']
+mINSHx,Jeff Lonneker,['Ken Boykin']
+mIPGOx,Nathan Tarr,['Matthew Rubino']
+mISFOc,,['Matthew Rubino']
+mISFOd,,['Matthew Rubino']
+mISFOl,,['Matthew Rubino']
+mISFOr,,['Matthew Rubino']
+mISFOs,,['Matthew Rubino']
+mISFOx,Steve Williams,['Matthew Rubino']
+mJAGDc,,['Matthew Rubino']
+mJAGDx,,['Matthew Rubino']
+mJAGUx,Jeff Lonneker,
+mJFEBx,Jeff Lonneker,
+mKEMYx,,['Thomas Laxson']
+mKIFOm,,['Matthew Rubino']
+mKIFOx,Jeff Lonneker,['Ken Boykin']
+mKJPGx,,['Matthew Rubino']
+mLBMYx,Jeff Lonneker,['Thomas Laxson']
+mLECHa,,['Matthew Rubino']
+mLECHc,,['Matthew Rubino']
+mLECHt,,['Matthew Rubino']
+mLECHx,Steve Williams,['Matthew Rubino']
+mLEMYx,Jeff Lonneker,
+mLEWEx,Matt Rubino,['Nathan Tarr']
+mLLMYx,Jeff Lonneker,['Thomas Laxson']
+mLOCHc,,['Matthew Rubino']
+mLOCHx,Jeff Lonneker,"['Ken Boykin', 'Matthew Rubino']"
+mLOECx,Jeff Lonneker,['Ken Boykin']
+mLPMOp,Jeff Lonneker,['Matthew Rubino']
+mLPMOx,Nathan Tarr,['Matthew Rubino']
+mLTPMx,Nathan Tarr,['Matthew Rubino']
+mLTSHx,Matt Rubino,['Nathan Tarr']
+mLTVOl,,['Matthew Rubino']
+mLTVOx,Nathan Tarr,['Matthew Rubino']
+mLTWEx,Matt Rubino,['Nathan Tarr']
+mMAORn,,['Matthew Rubino']
+mMAORx,Nathan Tarr,['Matthew Rubino']
+mMARAh,,['Matthew Rubino']
+mMARAx,Steve Williams,
+mMEDEx,Jeff Lonneker,
+mMESHx,Jeff Lonneker,
+mMESQx,Matt Rubino,
+mMEVOd,,['Matthew Rubino']
+mMEVOx,Steve Williams,['Matthew Rubino']
+mMEWOx,Nathan Tarr,['Matthew Rubino']
+mMFSQx,Jeff Lonneker,
+mMFTBx,Matt Rubino,['Nathan Tarr']
+mMGSQx,Jeff Lonneker,['Thomas Laxson']
+mMGVOx,,['Matthew Rubino']
+mMJMOx,Jeff Lonneker,['Thomas Laxson']
+mMKRAx,Nathan Tarr,['Matthew Rubino']
+mMLNBx,Jeff Lonneker,
+mMLSHx,,['Nathan Tarr']
+mMLTBx,Jeff Lonneker,['Thomas Laxson']
+mMMCHx,,['Matthew Rubino']
+mMOCOx,Nathan Tarr,['Matthew Rubino']
+mMOGOx,Nathan Tarr,['Matthew Rubino']
+mMOOSx,Nathan Tarr,['Matthew Rubino']
+mMOSQx,,
+mMOVOa,,['Matthew Rubino']
+mMOVOf,,['Matthew Rubino']
+mMOVOn,,['Matthew Rubino']
+mMOVOx,Nathan Tarr,['Matthew Rubino']
+mMPGOx,Jeff Lonneker,['Ken Boykin']
+mMPMOx,Steve Williams,['Matthew Rubino']
+mMRSHx,Matt Rubino,['Nathan Tarr']
+mMSPMx,,['Matthew Rubino']
+mMUDEx,Jeff Lonneker,
+mNADEx,Steve Williams,"['Nathan Tarr', 'Jeff Lonneker']"
+mNALSx,Matt Rubino,['Nathan Tarr']
+mNAPOx,Matt Rubino,['Nathan Tarr']
+mNAROx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mNASQx,,['Nathan Tarr']
+mNAWVx,Nathan Tarr,['Matthew Rubino']
+mNBARx,Matt Rubino,['Nathan Tarr']
+mNBDEx,,['Nathan Tarr']
+mNBLEx,Jeff Lonneker,
+mNESEx,Jeff Lonneker,['Thomas Laxson']
+mNFKRx,,['Matthew Rubino']
+mNFSEx,Jeff Lonneker,['Thomas Laxson']
+mNFSQa,,['Nathan Tarr']
+mNFSQf,,
+mNFSQo,,
+mNFSQx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr']"
+mNGCOx,,['Matthew Rubino']
+mNGMOx,Nathan Tarr,['Matthew Rubino']
+mNMSHx,Matt Rubino,
+mNODEx,Steve Williams,['Nathan Tarr']
+mNOMYx,,"['Nathan Tarr', 'Thomas Laxson']"
+mNOSSx,,['Nathan Tarr']
+mNPGOx,Nathan Tarr,"['Thomas Laxson', 'Matthew Rubino']"
+mNPMOx,,['Matthew Rubino']
+mNPYMx,Jeff Lonneker,
+mNRDEx,Matt Rubino,['Nathan Tarr']
+mNYBAx,Matt Rubino,
+mOBPMx,Nathan Tarr,['Matthew Rubino']
+mOCELx,,['Nathan Tarr']
+mOKRAx,Jeff Lonneker,['Thomas Laxson']
+mOLDEa,,['Matthew Rubino']
+mOLDEh,,['Matthew Rubino']
+mOLDEl,,['Matthew Rubino']
+mOLDEm,,['Matthew Rubino']
+mOLDEn,,['Matthew Rubino']
+mOLDEp,,['Matthew Rubino']
+mOLDEt,,['Matthew Rubino']
+mOLDEx,Jeff Lonneker,
+mOLMAx,Matt Rubino,['Nathan Tarr']
+mORSHa,,
+mORSHi,Matt Rubino,['Nathan Tarr']
+mORSHr,Matt Rubino,['Nathan Tarr']
+mORSHs,Matt Rubino,
+mORSHw,Matt Rubino,
+mORSHx,,['Nathan Tarr']
+mPABAx,Jeff Lonneker,['Thomas Laxson']
+mPACHx,Jeff Lonneker,['Ken Boykin']
+mPASHc,,['Nathan Tarr']
+mPASHp,,['Nathan Tarr']
+mPASHx,Matt Rubino,
+mPBSHx,Jeff Lonneker,['Ken Boykin']
+mPFTBx,Jeff Lonneker,['Ken Boykin']
+mPGFBx,,"['Nathan Tarr', 'Thomas Laxson']"
+mPGSQx,Jeff Lonneker,['Thomas Laxson']
+mPHMOx,Nathan Tarr,['Matthew Rubino']
+mPIDEc,,['Nathan Tarr']
+mPIDEx,Jeff Lonneker,['Nathan Tarr']
+mPIKAx,Jeff Lonneker,['Ken Boykin']
+mPJMOx,Nathan Tarr,['Matthew Rubino']
+mPKMOx,Jeff Lonneker,['Ken Boykin']
+mPKRAx,Jeff Lonneker,['Ken Boykin']
+mPMBAx,Jeff Lonneker,
+mPNCHx,Jeff Lonneker,"['Ken Boykin', 'Matthew Rubino']"
+mPPGOx,,"['Thomas Laxson', 'Matthew Rubino']"
+mPPMOx,Matt Rubino,['Matthew Rubino']
+mPRONs,,"['Thomas Laxson', 'Matthew Rubino']"
+mPRONx,Jeff Lonneker,"['Thomas Laxson', 'Matthew Rubino']"
+mPRSHx,,['Nathan Tarr']
+mPRVOt,,['Matthew Rubino']
+mPRVOx,Nathan Tarr,['Matthew Rubino']
+mPTPDx,Jeff Lonneker,['Thomas Laxson']
+mPYRAc,,['Thomas Laxson']
+mPYRAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mRACCx,Steve Williams,['Nathan Tarr']
+mRBEBx,Matt Rubino,
+mRBSQx,Jeff Lonneker,
+mREFOn,,['Matthew Rubino']
+mREFOx,Steve Williams,['Matthew Rubino']
+mRESQg,Steve Williams,['Nathan Tarr']
+mRESQx,Steve Williams,"['Ken Boykin', 'Nathan Tarr']"
+mRGSQx,Matt Rubino,
+mRINGx,Thomas Laxson,['Matthew Rubino']
+mROCOx,Nathan Tarr,['Matthew Rubino']
+mRORAx,Steve Williams,['Matthew Rubino']
+mROSQx,Matt Rubino,['Nathan Tarr']
+mROVOc,,['Matthew Rubino']
+mROVOx,Steve Williams,['Matthew Rubino']
+mRPMOx,Jeff Lonneker,['Ken Boykin']
+mRTCHx,Nathan Tarr,['Matthew Rubino']
+mRTGSx,Jeff Lonneker,['Ken Boykin']
+mRTMUx,Jeff Lonneker,
+mRTVOx,Steve Williams,['Matthew Rubino']
+mSACOx,Jeff Lonneker,
+mSADEx,Steve Williams,['Nathan Tarr']
+mSAMBx,,['Nathan Tarr']
+mSAVOx,Nathan Tarr,['Matthew Rubino']
+mSBLEx,Matt Rubino,['Nathan Tarr']
+mSDPMx,,['Matthew Rubino']
+mSEBAx,Matt Rubino,"['Nathan Tarr', 'Thomas Laxson']"
+mSEGOx,Nathan Tarr,['Matthew Rubino']
+mSEMYx,Matt Rubino,['Nathan Tarr']
+mSEOTx,Jeff Lonneker,['Thomas Laxson']
+mSEWEa,,
+mSEWEc,,['Nathan Tarr']
+mSEWEh,,
+mSEWEn,,['Nathan Tarr']
+mSEWEo,,
+mSEWEp,,
+mSEWEr,,
+mSEWEx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr']"
+mSFSQx,Matt Rubino,"['Nathan Tarr', 'Jeff Lonneker']"
+mSGMOx,Jeff Lonneker,['Thomas Laxson']
+mSGSQx,Jeff Lonneker,['Thomas Laxson']
+mSHBAx,Jeff Lonneker,['Thomas Laxson']
+mSHCHx,Jeff Lonneker,['Ken Boykin']
+mSHMOx,Nathan Tarr,['Matthew Rubino']
+mSICHx,Steve Williams,['Matthew Rubino']
+mSIKAx,Nathan Tarr,['Matthew Rubino']
+mSJKRe,,['Matthew Rubino']
+mSJKRn,,['Matthew Rubino']
+mSJKRx,,['Matthew Rubino']
+mSJPMx,Nathan Tarr,['Matthew Rubino']
+mSKRAx,,['Matthew Rubino']
+mSLMOx,Steve Williams,['Matthew Rubino']
+mSMHMx,,['Matthew Rubino']
+mSMSHx,Matt Rubino,['Nathan Tarr']
+mSNHAx,Nathan Tarr,"['Ken Boykin', 'Matthew Rubino', 'Nathan Tarr']"
+mSNMOx,Nathan Tarr,['Matthew Rubino']
+mSOCHx,,['Matthew Rubino']
+mSOTSx,Matt Rubino,['Nathan Tarr']
+mSPBAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mSPGOe,,['Nathan Tarr']
+mSPGOi,,['Nathan Tarr']
+mSPGOx,Jeff Lonneker,
+mSPMOx,Steve Williams,['Matthew Rubino']
+mSPOGx,,['Thomas Laxson']
+mSPSHx,Matt Rubino,['Nathan Tarr']
+mSPWOx,Steve Williams,['Matthew Rubino']
+mSRBVb,,['Matthew Rubino']
+mSRBVx,Steve Williams,['Matthew Rubino']
+mSSLIx,Jeff Lonneker,['Thomas Laxson']
+mSTSKx,Matt Rubino,['Nathan Tarr']
+mSTVOx,,['Matthew Rubino']
+mSTWOx,Jeff Lonneker,
+mSWFOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mSWMYx,Jeff Lonneker,
+mSWRAx,Nathan Tarr,['Matthew Rubino']
+mSYBAx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr']"
+mTASQx,Matt Rubino,['Nathan Tarr']
+mTBCRx,Jeff Lonneker,
+mTBEBa,,
+mTBEBi,,['Nathan Tarr']
+mTBEBp,Matt Rubino,
+mTBEBt,,
+mTBEBv,,['Nathan Tarr']
+mTBEBx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr', 'Thomas Laxson']"
+mTGSQx,Jeff Lonneker,['Thomas Laxson']
+mTKRAx,,['Matthew Rubino']
+mTLGSx,Matt Rubino,['Nathan Tarr']
+mTOCHx,Nathan Tarr,['Matthew Rubino']
+mTOMOx,Nathan Tarr,['Matthew Rubino']
+mTOVOp,,['Matthew Rubino']
+mTOVOx,Nathan Tarr,['Matthew Rubino']
+mTPGOx,Matt Rubino,['Nathan Tarr']
+mTRSHx,Jeff Lonneker,['Ken Boykin']
+mTXDEx,,['Nathan Tarr']
+mTXGOx,,['Thomas Laxson']
+mUGSQx,Matt Rubino,['Nathan Tarr']
+mUICHx,Nathan Tarr,['Matthew Rubino']
+mUMBAx,Jeff Lonneker,
+mUPDOx,Jeff Lonneker,
+mVASHh,,['Nathan Tarr']
+mVASHp,,
+mVASHx,Matt Rubino,['Nathan Tarr']
+mVIOPx,Matt Rubino,['Nathan Tarr']
+mWADEx,Matt Rubino,['Nathan Tarr']
+mWASQx,Matt Rubino,['Nathan Tarr']
+mWBBAx,Jeff Lonneker,
+mWEMOx,Nathan Tarr,['Matthew Rubino']
+mWEPIx,Matt Rubino,['Nathan Tarr']
+mWEPMx,Steve Williams,
+mWFDEx,Matt Rubino,['Nathan Tarr']
+mWFVOx,Nathan Tarr,['Matthew Rubino']
+mWGSQx,Jeff Lonneker,['Ken Boykin']
+mWHMOx,Nathan Tarr,['Matthew Rubino']
+mWHVOx,Steve Williams,['Matthew Rubino']
+mWIBOx,Nathan Tarr,['Matthew Rubino']
+mWIMAx,Matt Rubino,['Nathan Tarr']
+mWJMOx,Steve Williams,['Matthew Rubino']
+mWOLVx,Jeff Lonneker,"['Ken Boykin', 'Jeff Lonneker']"
+mWOODx,Matt Rubino,
+mWOVOx,Nathan Tarr,['Matthew Rubino']
+mWPGOx,Matt Rubino,['Nathan Tarr']
+mWRBAx,Jeff Lonneker,['Thomas Laxson']
+mWRBVx,Nathan Tarr,['Matthew Rubino']
+mWSFMx,Jeff Lonneker,['Thomas Laxson']
+mWSJAx,Jeff Lonneker,
+mWSSKx,Thomas Laxson,['Nathan Tarr']
+mWTASx,Matt Rubino,['Nathan Tarr']
+mWTDEc,,['Thomas Laxson']
+mWTDEl,Jeff Lonneker,['Thomas Laxson']
+mWTDEn,,['Thomas Laxson']
+mWTDEx,Jeff Lonneker,['Thomas Laxson']
+mWTHWx,Jeff Lonneker,"['Ken Boykin', 'Matthew Rubino']"
+mWTJAx,Jeff Lonneker,['Thomas Laxson']
+mWTPDx,Jeff Lonneker,
+mWTWOx,,['Matthew Rubino']
+mWYBAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+mWYGOx,Matt Rubino,['Nathan Tarr']
+mWYSQa,,
+mWYSQe,,
+mWYSQn,,['Nathan Tarr']
+mWYSQx,Jeff Lonneker,"['Ken Boykin', 'Nathan Tarr']"
+mYCCHx,,['Matthew Rubino']
+mYEMAn,,
+mYEMAx,Matt Rubino,
+mYFPGx,Matt Rubino,['Nathan Tarr']
+mYNCRx,Jeff Lonneker,
+mYPCHc,,['Matthew Rubino']
+mYPCHx,Nathan Tarr,['Matthew Rubino']
+mYUMYx,Matt Rubino,"['Nathan Tarr', 'Matthew Rubino', 'Thomas Laxson']"
+rALTUx,Jeff Lonneker,
+rAMALx,Jeff Lonneker,['Ken Boykin']
+rANLIx,,['Ken Boykin']
+rAQGAx,Jeff Lonneker,['Ken Boykin']
+rARBCx,Jeff Lonneker,
+rASTUx,Jeff Lonneker,['Ken Boykin']
+rASWHx,,['Ken Boykin']
+rAZTUx,,['Ken Boykin']
+rBARAx,,['Ken Boykin']
+rBCBLx,,['Ken Boykin']
+rBCCLx,,['Ken Boykin']
+rBCCOx,,['Ken Boykin']
+rBCRAx,,['Ken Boykin']
+rBHLIx,,['Ken Boykin']
+rBHSKx,Jeff Lonneker,['Ken Boykin']
+rBKMTx,Jeff Lonneker,
+rBLSSx,Jeff Lonneker,
+rBMTUx,Jeff Lonneker,
+rBNGAx,Jeff Lonneker,['Ken Boykin']
+rBNLIx,,['Ken Boykin']
+rBNLLx,,['Ken Boykin']
+rBOTUx,Jeff Lonneker,
+rBRLIx,,['Ken Boykin']
+rBRVIx,Jeff Lonneker,
+rBRVWx,,['Ken Boykin']
+rBRWAx,Jeff Lonneker,
+rBTRAx,Jeff Lonneker,['Ken Boykin']
+rBTURx,,['Ken Boykin']
+rBUGAx,,['Ken Boykin']
+rCAISx,,['Ken Boykin']
+rCALIx,,['Ken Boykin']
+rCBHSx,Jeff Lonneker,
+rCCHUx,Jeff Lonneker,['Ken Boykin']
+rCCHWx,Jeff Lonneker,
+rCCWHx,Jeff Lonneker,['Ken Boykin']
+rCDFLx,Jeff Lonneker,['Ken Boykin']
+rCESNx,,['Ken Boykin']
+rCFLSx,Jeff Lonneker,['Ken Boykin']
+rCFTLx,,['Ken Boykin']
+rCHGAx,Jeff Lonneker,['Ken Boykin']
+rCHNIx,,['Ken Boykin']
+rCHNSx,Jeff Lonneker,['Ken Boykin']
+rCHTUx,,['Ken Boykin']
+rCKINx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rCLELx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rCLIZx,,['Ken Boykin']
+rCLLIx,,['Ken Boykin']
+rCLSLx,Jeff Lonneker,
+rCMKIx,Jeff Lonneker,['Ken Boykin']
+rCMTUx,,['Ken Boykin']
+rCNIGx,,['Ken Boykin']
+rCOACx,Jeff Lonneker,['Ken Boykin']
+rCOGAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rCOPPx,Jeff Lonneker,['Ken Boykin']
+rCOSKx,Jeff Lonneker,['Ken Boykin']
+rCOSLx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rCOTTx,Jeff Lonneker,['Ken Boykin']
+rCOWAx,,['Ken Boykin']
+rCROCx,Jeff Lonneker,
+rCRSLx,Jeff Lonneker,['Ken Boykin']
+rCSBLx,Jeff Lonneker,['Ken Boykin']
+rCSPWx,Jeff Lonneker,['Ken Boykin']
+rCSWHx,Jeff Lonneker,
+rCWHIx,Jeff Lonneker,['Ken Boykin']
+rDBTEx,,['Ken Boykin']
+rDBWAx,Jeff Lonneker,['Ken Boykin']
+rDEBRx,Jeff Lonneker,['Ken Boykin']
+rDEIGx,Jeff Lonneker,['Ken Boykin']
+rDENIx,,['Ken Boykin']
+rDETOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rDGWHx,Jeff Lonneker,
+rDHLIx,Jeff Lonneker,['Ken Boykin']
+rDHNSx,,['Ken Boykin']
+rDNLIx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rDSALx,Jeff Lonneker,['Ken Boykin']
+rDSLIx,Jeff Lonneker,['Ken Boykin']
+rEAFOx,,['Ken Boykin']
+rEARAx,Jeff Lonneker,['Ken Boykin']
+rEARIx,Jeff Lonneker,['Ken Boykin']
+rEBTUb,Jeff Lonneker,
+rEBTUx,Jeff Lonneker,['Ken Boykin']
+rECLIx,Jeff Lonneker,['Ken Boykin']
+rEDBRx,Jeff Lonneker,['Ken Boykin']
+rEELIx,,['Ken Boykin']
+rEFLIx,,['Ken Boykin']
+rEGLIx,Jeff Lonneker,['Ken Boykin']
+rEHNSx,Jeff Lonneker,['Ken Boykin']
+rEISNx,Jeff Lonneker,
+rEMDTx,Jeff Lonneker,['Ken Boykin']
+rEMSTx,Jeff Lonneker,['Ken Boykin']
+rEMTUx,Jeff Lonneker,
+rEPNSx,,['Ken Boykin']
+rEWSNx,Jeff Lonneker,['Ken Boykin']
+rFCSNx,Jeff Lonneker,
+rFGWAx,Jeff Lonneker,
+rFHSNx,,['Ken Boykin']
+rFLBRx,,['Ken Boykin']
+rFLMTx,Jeff Lonneker,
+rFLSKx,Jeff Lonneker,
+rFLSOx,Jeff Lonneker,
+rFLWOx,Jeff Lonneker,
+rFMTUx,Jeff Lonneker,['Ken Boykin']
+rFRBCx,Jeff Lonneker,
+rFSLIx,Jeff Lonneker,
+rFSSKx,Jeff Lonneker,
+rFTHLx,Jeff Lonneker,['Ken Boykin']
+rGBCLx,Jeff Lonneker,['Ken Boykin']
+rGBKIx,Jeff Lonneker,['Ken Boykin']
+rGCRSx,Jeff Lonneker,['Ken Boykin']
+rGCSNx,Jeff Lonneker,['Ken Boykin']
+rGCWHx,Jeff Lonneker,
+rGELIx,Jeff Lonneker,['Ken Boykin']
+rGHLIx,,['Ken Boykin']
+rGIGAx,,['Ken Boykin']
+rGIMOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rGISKx,Jeff Lonneker,['Ken Boykin']
+rGLSNx,Jeff Lonneker,['Ken Boykin']
+rGLSWx,Jeff Lonneker,
+rGNLIx,,['Ken Boykin']
+rGNRAx,Jeff Lonneker,
+rGNSLx,,['Ken Boykin']
+rGOPHx,Jeff Lonneker,['Ken Boykin']
+rGOTOx,Jeff Lonneker,['Ken Boykin']
+rGPRAx,,['Ken Boykin']
+rGPSKx,Jeff Lonneker,['Ken Boykin']
+rGPSLx,,['Ken Boykin']
+rGRANx,Jeff Lonneker,['Ken Boykin']
+rGRRAx,,['Ken Boykin']
+rGSHLx,Jeff Lonneker,['Ken Boykin']
+rGSTUx,Jeff Lonneker,['Ken Boykin']
+rHACOx,Jeff Lonneker,['Ken Boykin']
+rHSTUx,,['Ken Boykin']
+rIGLIx,Jeff Lonneker,
+rINLIx,,['Ken Boykin']
+rKELIx,,['Ken Boykin']
+rKISNx,Jeff Lonneker,['Ken Boykin']
+rKRSTx,Jeff Lonneker,['Ken Boykin']
+rLASWx,,['Ken Boykin']
+rLBSKx,Jeff Lonneker,['Ken Boykin']
+rLEATx,Jeff Lonneker,['Ken Boykin']
+rLISNx,Jeff Lonneker,['Ken Boykin']
+rLISWx,Jeff Lonneker,['Ken Boykin']
+rLMTUx,Jeff Lonneker,['Ken Boykin']
+rLNLLx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rLNSNx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rLOGTx,Jeff Lonneker,['Ken Boykin']
+rLOPIx,,['Ken Boykin']
+rLTBLx,Jeff Lonneker,['Ken Boykin']
+rLWWHx,,['Ken Boykin']
+rMALIx,Jeff Lonneker,
+rMASSx,Jeff Lonneker,['Ken Boykin']
+rMBHSx,,['Ken Boykin']
+rMEGAx,Jeff Lonneker,
+rMFTLx,Jeff Lonneker,['Ken Boykin']
+rMGLIx,Jeff Lonneker,
+rMHNSx,Jeff Lonneker,['Ken Boykin']
+rMILKx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rMLSKx,Jeff Lonneker,['Ken Boykin']
+rMORAx,Jeff Lonneker,['Ken Boykin']
+rMOSKx,Jeff Lonneker,
+rMPSLx,Jeff Lonneker,['Ken Boykin']
+rMSWAx,Jeff Lonneker,['Ken Boykin']
+rMTSKx,Jeff Lonneker,['Ken Boykin']
+rNALIx,Jeff Lonneker,['Ken Boykin']
+rNARAx,Jeff Lonneker,['Ken Boykin']
+rNHGAx,Jeff Lonneker,
+rNMTHx,,['Ken Boykin']
+rNMTUx,Jeff Lonneker,['Ken Boykin']
+rNMWHx,Jeff Lonneker,['Ken Boykin']
+rNRBCx,Jeff Lonneker,['Ken Boykin']
+rNRBOx,Jeff Lonneker,['Ken Boykin']
+rNWATx,Jeff Lonneker,['Ken Boykin']
+rNWGAx,Jeff Lonneker,['Ken Boykin']
+rOBTUx,Jeff Lonneker,['Ken Boykin']
+rOMTUx,Jeff Lonneker,['Ken Boykin']
+rORSTx,,['Ken Boykin']
+rORWHx,,['Ken Boykin']
+rOTLIx,Jeff Lonneker,['Ken Boykin']
+rPALIx,,['Ken Boykin']
+rPASWx,,['Ken Boykin']
+rPATUx,Jeff Lonneker,['Ken Boykin']
+rPBHSx,Jeff Lonneker,['Ken Boykin']
+rPBWAx,Jeff Lonneker,['Ken Boykin']
+rPCOOx,Jeff Lonneker,['Ken Boykin']
+rPFLIx,,['Ken Boykin']
+rPHNSx,Jeff Lonneker,['Ken Boykin']
+rPINEl,Jeff Lonneker,
+rPINEu,Jeff Lonneker,
+rPINEx,,['Ken Boykin']
+rPLGAx,Jeff Lonneker,['Ken Boykin']
+rPLSWx,Jeff Lonneker,['Ken Boykin']
+rPLTGx,,['Ken Boykin']
+rPLWHx,,['Ken Boykin']
+rPMTUx,Jeff Lonneker,['Ken Boykin']
+rPOSLx,Jeff Lonneker,['Ken Boykin']
+rPRATx,Jeff Lonneker,['Ken Boykin']
+rPRRAx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rPRSKx,,['Ken Boykin']
+rPSHLx,Jeff Lonneker,['Ken Boykin']
+rPWLIx,Jeff Lonneker,['Ken Boykin']
+rQUEEx,Jeff Lonneker,['Ken Boykin']
+rRASNx,Jeff Lonneker,['Ken Boykin']
+rRAWHx,,['Ken Boykin']
+rRBGEx,,['Ken Boykin']
+rRBLIx,,['Ken Boykin']
+rRBMTx,Jeff Lonneker,['Ken Boykin']
+rRBMUx,Jeff Lonneker,['Ken Boykin']
+rRBSNx,Jeff Lonneker,['Ken Boykin']
+rRBSSx,,['Ken Boykin']
+rRBWHx,,['Ken Boykin']
+rRCLIx,,['Ken Boykin']
+rRDRAx,,['Ken Boykin']
+rRECOx,Jeff Lonneker,['Ken Boykin']
+rREGEx,Jeff Lonneker,
+rRFMTx,,['Ken Boykin']
+rRGCOx,Jeff Lonneker,['Ken Boykin']
+rRHLIx,Jeff Lonneker,
+rRICOx,,['Ken Boykin']
+rRMTUx,Jeff Lonneker,['Ken Boykin']
+rRNRAx,Jeff Lonneker,
+rRNSNx,Jeff Lonneker,['Ken Boykin']
+rROBOx,Jeff Lonneker,['Ken Boykin']
+rROEAx,Jeff Lonneker,['Ken Boykin']
+rROGRx,Jeff Lonneker,['Ken Boykin']
+rRRATx,Steve Williams,['Ken Boykin']
+rRRCSx,Jeff Lonneker,
+rRTHLx,Jeff Lonneker,['Ken Boykin']
+rSALSx,Jeff Lonneker,
+rSANLx,,['Ken Boykin']
+rSAWAx,Jeff Lonneker,['Ken Boykin']
+rSBGEx,,['Ken Boykin']
+rSBHSx,Jeff Lonneker,['Ken Boykin']
+rSBLIx,Jeff Lonneker,['Ken Boykin']
+rSBRAx,,['Ken Boykin']
+rSCARx,Jeff Lonneker,['Ken Boykin']
+rSCLIx,,['Ken Boykin']
+rSCSNx,Jeff Lonneker,
+rSCWHx,,['Ken Boykin']
+rSESNx,Jeff Lonneker,['Ken Boykin']
+rSFLSx,Jeff Lonneker,['Ken Boykin']
+rSGLIx,,['Ken Boykin']
+rSHGAx,,['Ken Boykin']
+rSHNSx,Jeff Lonneker,
+rSIDEx,Jeff Lonneker,['Ken Boykin']
+rSIGAx,Jeff Lonneker,['Ken Boykin']
+rSINLx,,['Ken Boykin']
+rSLCOx,,['Ken Boykin']
+rSLRAx,Jeff Lonneker,['Ken Boykin']
+rSMEAx,Jeff Lonneker,['Ken Boykin']
+rSMGRx,Jeff Lonneker,['Ken Boykin']
+rSMKIx,Steve Williams,['Thomas Laxson']
+rSMSOc,Jeff Lonneker,['Ken Boykin']
+rSMSOm,Jeff Lonneker,['Ken Boykin']
+rSMSOx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rSNTUx,Jeff Lonneker,['Ken Boykin']
+rSOALx,Jeff Lonneker,['Ken Boykin']
+rSOCOx,Jeff Lonneker,['Ken Boykin']
+rSOMTx,Jeff Lonneker,['Ken Boykin']
+rSOPTx,,['Ken Boykin']
+rSOWAx,Jeff Lonneker,['Ken Boykin']
+rSOWHx,Jeff Lonneker,
+rSPLIx,Jeff Lonneker,['Ken Boykin']
+rSPLSx,Jeff Lonneker,['Ken Boykin']
+rSPRAx,,['Ken Boykin']
+rSPSNx,Jeff Lonneker,['Ken Boykin']
+rSPSOx,Jeff Lonneker,['Ken Boykin']
+rSPTUx,Jeff Lonneker,['Ken Boykin']
+rSRATx,Jeff Lonneker,['Ken Boykin']
+rSRBOx,,['Ken Boykin']
+rSSNSx,Jeff Lonneker,
+rSSWHx,Jeff Lonneker,
+rSTELx,,['Ken Boykin']
+rSTMTx,Jeff Lonneker,
+rSTRAx,,['Ken Boykin']
+rSTSNx,Jeff Lonneker,
+rSTWHx,Jeff Lonneker,['Ken Boykin']
+rSUCOx,Jeff Lonneker,['Ken Boykin']
+rTALIx,,['Ken Boykin']
+rTBHSx,,['Ken Boykin']
+rTEGAx,Jeff Lonneker,['Ken Boykin']
+rTERAx,,['Ken Boykin']
+rTHLIx,Jeff Lonneker,['Ken Boykin']
+rTHNSx,,['Ken Boykin']
+rTIRAx,Jeff Lonneker,['Ken Boykin']
+rTIWHx,Jeff Lonneker,['Ken Boykin']
+rTMTUx,,['Ken Boykin']
+rTPRAx,Jeff Lonneker,['Ken Boykin']
+rTRATx,Jeff Lonneker,
+rTSGAx,,['Ken Boykin']
+rTSLIx,,['Ken Boykin']
+rTSRAx,Jeff Lonneker,
+rTSSLx,,['Ken Boykin']
+rTSSNx,Jeff Lonneker,
+rTXBGx,Jeff Lonneker,['Ken Boykin']
+rTXCOx,,['Ken Boykin']
+rTXCSx,,['Ken Boykin']
+rTXLYx,,['Ken Boykin']
+rTXTHx,Jeff Lonneker,['Ken Boykin']
+rTXTOx,,['Ken Boykin']
+rVASAx,Jeff Lonneker,['Ken Boykin']
+rWBGEx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rWBHSx,,['Ken Boykin']
+rWDBRx,Jeff Lonneker,['Ken Boykin']
+rWEFOx,,['Ken Boykin']
+rWELYx,Jeff Lonneker,['Ken Boykin']
+rWERAx,Jeff Lonneker,['Ken Boykin']
+rWERIx,Jeff Lonneker,['Ken Boykin']
+rWESKx,Jeff Lonneker,['Ken Boykin']
+rWETHx,Jeff Lonneker,['Ken Boykin']
+rWEWOx,,['Ken Boykin']
+rWFLIx,Jeff Lonneker,['Ken Boykin']
+rWGROx,Jeff Lonneker,['Ken Boykin']
+rWNLIx,,['Ken Boykin']
+rWOSLx,Jeff Lonneker,
+rWOTUx,Jeff Lonneker,['Ken Boykin']
+rWPNSx,Jeff Lonneker,['Ken Boykin']
+rWPTUx,Jeff Lonneker,"['Ken Boykin', 'Thomas Laxson']"
+rWSNSx,Jeff Lonneker,['Ken Boykin']
+rYBHSx,Jeff Lonneker,
+rYBKIx,,['Ken Boykin']
+rYBMTx,Jeff Lonneker,
+rYBSLx,,['Ken Boykin']
+rYFTLx,,['Ken Boykin']
+rYHGEx,,['Ken Boykin']
+rYMTUx,Jeff Lonneker,['Ken Boykin']
+rYSLIx,Jeff Lonneker,
+rZTLIx,Jeff Lonneker,['Ken Boykin']
+>>>>>>> 05f6d339296cedeb084f5c5690e359f15e412000
