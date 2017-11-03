@@ -1,6 +1,6 @@
 # GAP Species Information Builder
 
-This repository contains code for working with the GAP Species Models (or Habitat Maps). Notebooks and scripts here deal with issues in the catalog for these resources in ScienceBase and handle interactions with the Taxonomic Information Registry. Some of the scripts are one-time processes used to address issues and others will be fed into automated back-end algorithms for keeping everything up to date and usable.
+This repository contains code for working with the GAP Species Models (Habitat Maps) and Range Data/Maps. Notebooks and scripts here deal with issues in the catalog for these resources in ScienceBase and handle interactions with the Taxa Information Registry. Some of the scripts are one-time processes used to address issues and others will be fed into automated back-end algorithms for keeping everything up to date and usable. There are also a collection of text files of various kinds in this repo that were used in the iterative process of getting the information in ScienceBase, that we consider to be the master source, all in place.
 
 ## Provisional Software Disclaimer
 Under USGS Software Release Policy, the software codes here are considered preliminary, not released officially, and posted to this repo for informal sharing among colleagues.
